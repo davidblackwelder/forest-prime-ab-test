@@ -1,7 +1,7 @@
 <img src="./imgs/forest-prime-logo.png">
 
 # Maximizing Conversion: A/B Testing Insights
-This project will focus on analyzing the results of A/B testing for an ad campaign run by the fictional e-commerce company, Forest Prime.
+This project analyzed the results of A/B testing for an ad campaign run by the fictional e-commerce company, Forest Prime.
 
 ## Project Overview
 Forest Prime is preparing for a promotion that will run in August this year and wants to analyze the data for the last 5 years of A/B ad campaigns that were used in August to better understand which campaigns led to more purchases. The marketing team noticed that the campaigns used in August 2019 led to the most sales overall and are requesting an analysis of whether the test or control campaign led to more sales.
