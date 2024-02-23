@@ -86,3 +86,9 @@ This shows a great representation of how the observed difference which also happ
 
 ### Recommended Courses of Action
 Due to the average spend of each campaign and that we failed to reject the null hypothesis, it is recommended to choose the control campaign over the test campaign. Specifically, the control campaign showed to have a lower average spend than the test campaign and there was not a statistically significant difference between the two campaigns. While the test campaign did not show a statistically significant difference in the conversion rate, it did show a higher correlation between users adding items to the cart and completing purchases. Therefore, my second recommendation is a deeper analysis into the specific features or strategies implemented in the test campaign. By focusing on a deeper analysis the company can refine future campaigns in order to benefit from those insights and improve overall conversions.
+
+
+## Extra
+You can view the analysis in a Juypter Notebook by visting:
+
+__Website:__ [forestprime.davidblackwelder.com](https://forestprime.davidblackwelder.com)
